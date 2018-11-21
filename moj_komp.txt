@@ -1,0 +1,4 @@
+Pamięć dysku: 240 GB Dysk SSD SATA
+Ilość pamięci RAM: 4 GB 1600 MHz DDR3
+Rodzaj i prędkość procesora: 2,5 GHz Intel Core i5
+System jest 64-bitowy 
